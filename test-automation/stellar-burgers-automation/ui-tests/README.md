@@ -1,4 +1,4 @@
-﻿# UI автотесты Stellar Burgers
+﻿# UI Tests - Stellar Burgers
 
 Проект содержит UI автотесты для веб-приложения Stellar Burgers.
 
